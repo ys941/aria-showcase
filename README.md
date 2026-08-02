@@ -30,8 +30,6 @@
 
 It is the kind of project that looks like a toy for about ninety seconds, until you realise how many things have to not break for a robot to say a sentence out loud on time.
 
-*Aria is built on an open-source Reachy Mini conversation demo, rebuilt around a new transport, a new brain layer, a new voice pipeline, and a new interface.*
-
 ---
 
 ## ✨ Highlights
@@ -122,6 +120,14 @@ Interested in this or **any of Bhardwaj's projects** — a demo, a walkthrough, 
 
 ### 📧 **[ys9410017064@gmail.com](mailto:ys9410017064@gmail.com)**
 
+---
+
 <div align="center">
-<sub>Designed & developed by <b>Yati Bhardwaj</b> · <a href="https://github.com/ys941">github.com/ys941</a></sub>
+
+<img src="assets/heart.gif" width="26" height="26" alt="beating heart" />
+
+**Made with love by Yati Bhardwaj**
+
+<sub><a href="https://github.com/ys941">github.com/ys941</a> · <a href="mailto:ys9410017064@gmail.com">ys9410017064@gmail.com</a></sub>
+
 </div>
